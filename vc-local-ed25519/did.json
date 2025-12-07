@@ -9,7 +9,7 @@
       "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-      "publicKeyMultibase": "z6Mkh3gExamplePublicKeyReplaceWithTheRealOne"
+      "publicKeyMultibase": "z7izxdwMnezNYVUKEPQfaTiYLXfVE4VT6ZbJ3nbXPwAVf"
     }
   ],
   "assertionMethod": [
