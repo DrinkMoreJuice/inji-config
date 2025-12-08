@@ -7,13 +7,20 @@
   "alsoKnownAs": [],
   "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
-  {
-    "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1",
-    "type": "Ed25519VerificationKey2020",
-    "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-    "publicKeyMultibase": "z6Mkjc89b92TezeY88fPyQjd8kE1RCFe51Wo4giFxFdhBbVa"
-  }
-],
+    {
+      "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
+      "publicKeyMultibase": "z6Mkjc89b92TezeY88fPyQjd8kE1RCFe51Wo4giFxFdhBbVa",
+      "publicKeyBase58": "3Xk6K9xjS9haEtzRRKxHp8s6pkqvytDuJWGcfEeGomKM",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "zT3n3Ztz2aEzqOObJ+bikeeT5A+MEleoXosRXaRXVsU",
+        "kid": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1"
+      }
+    }
+  ],
   "authentication": [
     "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1"
   ],
@@ -22,3 +29,4 @@
   ],
   "service": []
 }
+
