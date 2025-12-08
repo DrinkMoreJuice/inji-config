@@ -7,13 +7,13 @@
   "alsoKnownAs": [],
   "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
-    {
-      "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1",
-      "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-      "publicKeyMultibase": "z69s6ztn2KTA51dphHqmnHeg1bcynf8GSNfoL7yfgGNiC"
-    }
-  ],
+  {
+    "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1",
+    "type": "Ed25519VerificationKey2020",
+    "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
+    "publicKeyMultibase": "z6Mkjc89b92TezeY88fPyQjd8kE1RCFe51Wo4giFxFdhBbVa"
+  }
+],
   "authentication": [
     "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#key-1"
   ],
