@@ -11,7 +11,7 @@
       "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#ctKpsQfvn8K2Cv3_p4wter0ATc7ZlEuA0SzLPHw1Qk8",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-      "publicKeyMultibase": "z6MknbhpN1zW7F8L75aDSJr4cgQKA9bbt2icSPWCTseJ7Mta"
+      "publicKeyMultibase": "z6Mkjc89b92TezeY88fPyQjd8kE1RCFe51Wo4giFxFdhBbVa"
     }
   ],
   "authentication": [
