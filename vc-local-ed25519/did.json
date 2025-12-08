@@ -6,7 +6,7 @@
   "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhDaWkJgkFvs26zsyM6k3PZBnAn48hWEpZepAN4fysZV1",
+      "publicKeyMultibase": "z6MkpUvuKvWWwkQrtmrnza7YpW9GscUYkAmcPgxMvcDpnzF8",
       "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
       "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#ctKpsQfvn8K2Cv3_p4wter0ATc7ZlEuA0SzLPHw1Qk8",
       "type": "Ed25519VerificationKey2020",
