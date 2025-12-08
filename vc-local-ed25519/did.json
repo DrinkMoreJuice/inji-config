@@ -1,24 +1,23 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/suites/ed25519-2020/v1"
+  "assertionMethod": [
+    "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519"
   ],
+  "service": [],
   "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-  "alsoKnownAs": [],
-  "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
     {
+      "publicKeyMultibase": "z6MkhDaWkJgkFvs26zsyM6k3PZBnAn48hWEpZepAN4fysZV1",
+      "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
       "id": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#ctKpsQfvn8K2Cv3_p4wter0ATc7ZlEuA0SzLPHw1Qk8",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519",
-      "publicKeyMultibase": "z6Mkjc89b92TezeY88fPyQjd8kE1RCFe51Wo4giFxFdhBbVa"
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
   ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
   "authentication": [
-    "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#ctKpsQfvn8K2Cv3_p4wter0ATc7ZlEuA0SzLPHw1Qk8"
-  ],
-  "assertionMethod": [
-    "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519#ctKpsQfvn8K2Cv3_p4wter0ATc7ZlEuA0SzLPHw1Qk8"
-  ],
-  "service": []
+    "did:web:drinkmorejuice.github.io:inji-config:vc-local-ed25519"
+  ]
 }
